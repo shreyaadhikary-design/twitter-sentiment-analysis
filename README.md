@@ -19,9 +19,3 @@ An end-to-end Machine Learning project that uses a **Deep Learning (LSTM)** mode
 * `sentiment_model.h5`: The saved trained neural network.
 * `tokenizer.joblib`: The saved text-to-numeric dictionary.
 * `requirements.txt`: List of necessary Python packages.
-
-## ⚙️ How to Run Locally
-1. Clone this repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
